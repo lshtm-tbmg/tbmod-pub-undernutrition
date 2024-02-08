@@ -1,0 +1,25 @@
+Year,Scenario,AgeGrp,BMI,Indicator,medval,lowval,highval
+2035,Energy Price Shock,"[0,99]",Mild thinness,TB incidence rate,-0.013579389,-0.018225447,-0.008102518
+2035,Energy Price Shock,"[0,99]",Mild thinness,TB mortality rate,-0.010417972,-0.016038952,-0.003210439
+2035,Energy Price Shock,"[0,99]",Moderate to severe thinness,TB incidence rate,-0.008132229,-0.012666394,-0.003752592
+2035,Energy Price Shock,"[0,99]",Moderate to severe thinness,TB mortality rate,-0.003852826,-0.011081373,0.002214669
+2035,Energy Price Shock,"[0,99]",Normal BMI,TB incidence rate,-0.0277059,-0.031631462,-0.02243866
+2035,Energy Price Shock,"[0,99]",Normal BMI,TB mortality rate,-0.024498287,-0.028173179,-0.019654087
+2035,Energy Price Shock,"[0,99]",Overweight BMI,TB incidence rate,-0.018828729,-0.022830232,-0.013452624
+2035,Energy Price Shock,"[0,99]",Overweight BMI,TB mortality rate,-0.018426814,-0.040840445,0.003633776
+2035,Export Restriction Shock,"[0,99]",Mild thinness,TB incidence rate,-0.000493418,-0.001903471,0.001150997
+2035,Export Restriction Shock,"[0,99]",Mild thinness,TB mortality rate,-0.000677441,-0.004620626,0.00505306
+2035,Export Restriction Shock,"[0,99]",Moderate to severe thinness,TB incidence rate,-4.76E-05,-0.002159296,0.001417264
+2035,Export Restriction Shock,"[0,99]",Moderate to severe thinness,TB mortality rate,-0.0002231,-0.009090813,0.005190843
+2035,Export Restriction Shock,"[0,99]",Normal BMI,TB incidence rate,-0.001062412,-0.001739254,-0.000335354
+2035,Export Restriction Shock,"[0,99]",Normal BMI,TB mortality rate,-0.000851768,-0.001578212,-0.00021571
+2035,Export Restriction Shock,"[0,99]",Overweight BMI,TB incidence rate,-0.000664124,-0.001422173,-1.99E-05
+2035,Export Restriction Shock,"[0,99]",Overweight BMI,TB mortality rate,-0.00045061,-0.016047131,0.011346483
+2035,Export and Energy Shocks,"[0,99]",Mild thinness,TB incidence rate,-0.01451661,-0.02015382,-0.008994481
+2035,Export and Energy Shocks,"[0,99]",Mild thinness,TB mortality rate,-0.011706362,-0.018253231,-0.00582446
+2035,Export and Energy Shocks,"[0,99]",Moderate to severe thinness,TB incidence rate,-0.00892065,-0.0139902,-0.004332705
+2035,Export and Energy Shocks,"[0,99]",Moderate to severe thinness,TB mortality rate,-0.0048781,-0.014562987,0.000899502
+2035,Export and Energy Shocks,"[0,99]",Normal BMI,TB incidence rate,-0.029020081,-0.035352066,-0.024306269
+2035,Export and Energy Shocks,"[0,99]",Normal BMI,TB mortality rate,-0.025742265,-0.031885827,-0.021355013
+2035,Export and Energy Shocks,"[0,99]",Overweight BMI,TB incidence rate,-0.019804126,-0.025615428,-0.014559155
+2035,Export and Energy Shocks,"[0,99]",Overweight BMI,TB mortality rate,-0.023041834,-0.047520848,-0.006431478
