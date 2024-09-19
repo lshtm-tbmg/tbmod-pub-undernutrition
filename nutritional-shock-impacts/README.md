@@ -1,15 +1,15 @@
-## Nutritional_Shock_impacts
+## Modelling the effect of nutritional shocks from the war in Ukraine on tuberculosis in India
 
-This is a description for generating the output for *"Modelling the effect of nutritional shocks from the war in Ukraine on tuberculosis in India".*
+This is a description of the scripts involved in generating the output for "Modelling the effect of nutritional shocks from the war in Ukraine on tuberculosis in India", using an updated version of the TBVax model [https://github.com/lshtm-tbmg/tbvax-pub]. 
 
 ***System and software requirements***
 
-This project uses R version 4.3.2.
-
-This code has been tested on macOS: Sonoma (14.4.1).
+- This project uses R version 4.3.2.
+- This code has been tested on macOS: Sonoma (14.4.1).
 
 ***R packages required***
 
+Below is a combined list of all the R packages required by the scripts to generate output:
 ```{r}
 arrow
 assertthat
@@ -23,7 +23,6 @@ ggplot2
 here
 hmer
 lhs
-log4r
 log4r
 logger
 lubridate
@@ -39,6 +38,8 @@ xml2
 ***Demo and instructions for use***
 
 Country-specific files to run and calibrate the model are located in `TBmodel/countries/INDu/parameters` and country-specific demographic, mortality, and BMI distribution data are located in `TBmodel/countries/INDu/data`.
+
+
 
 1.  Model calibration
 
